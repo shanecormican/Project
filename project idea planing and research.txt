@@ -1,0 +1,19 @@
+High voltage cicuit
+----------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=_Zs8nox4QoA
+
+----------------------------------------------------------------------------------
+Feachers to include and info
+----------------------------------------------------------------------------------
+work of the neb 2 designe which produces a voltage of 200V at a minicule current,
+need to up this to above 7000V,
+this is run of impulses need to add capaciters to change to constant voltage,
+have it getting wider from the noase to the front to store the battery,
+have it sending the charge of the battery back to the user if requested,
+battery is a 3.7v at 600mA,
+need the two way radiowaves to send back the batery levle and to start the shock,
+shock wile the button is pressed stop on release,
+led solid red if empty
+led flash red when near empty
+led flash green when near empty
+led solit green when near full
